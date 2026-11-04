@@ -18,5 +18,6 @@ public class MultiplicationTable_Recursive_Approach {
         System.out.println("Enter number");
         int n = sc.nextInt();
         printTable(n);
+        sc.close();
     }
 }

@@ -13,5 +13,6 @@ public class MultiplicationTable {
         System.out.println("Enter number");
         int n = sc.nextInt();
         printTable(n);
+        sc.close();
     }
 }

@@ -19,5 +19,6 @@ public class EvenOddBitwise {
         }else  {
             System.out.println("Odd");
         }
+        sc.close();
     }
 }
